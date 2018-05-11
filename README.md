@@ -18,7 +18,7 @@ Prerequisite of the course are following:
 * Git
 
 ## Software in your computer
-From starting this course you need to install following software in your computer.
+You need to install following software in your computer.
 * [Python 3](https://python.org)
 * [Anaconda](https://anaconda.org/)
 
